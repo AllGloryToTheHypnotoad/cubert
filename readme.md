@@ -1,6 +1,18 @@
-MIT License
+![](docs/cubert.png)
 
-Copyright (c) 2025 Kevin Walchko
+# Cubert
+
+**still in development**
+
+## Run
+
+```bash
+sudo cubert
+```
+
+# MIT License
+
+**Copyright (c) 2025 All Glory to the Hypnotoad**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

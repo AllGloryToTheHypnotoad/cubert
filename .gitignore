@@ -1,0 +1,12 @@
+__pycache__
+.pytest_cache
+.DS_Store
+._*
+
+*.lock
+*.yml
+*.yaml
+
+build
+dist
+old
