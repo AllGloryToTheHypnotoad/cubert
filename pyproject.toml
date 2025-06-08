@@ -27,6 +27,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = ">=3.10"
 colorama = "*"
+six = "*" # it seems this needs be install BEFORE scapy
 scapy = "*"
 flask = "*"
 pyyaml = "*"

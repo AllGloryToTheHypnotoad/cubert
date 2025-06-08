@@ -4,11 +4,24 @@
 
 **still in development**
 
+## Issues
+
+- If you get an error about python not finding `scapy.modules.six.move`
+then uninstall `scapy` install `six` and reinstall `scapy` ... wtf?
+
 ## Run
 
 ```bash
 sudo cubert
 ```
+
+## ToDo
+
+- [ ] Define port
+- [ ] Auto reload webpage on network update
+- [ ] Do a better job on services, I have Apple hosts that are
+not showing services, but they have them
+- [ ] Setup a systemd service script to launching
 
 # MIT License
 
