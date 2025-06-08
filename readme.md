@@ -18,10 +18,12 @@ sudo cubert
 ## ToDo
 
 - [ ] Define port
+- [ ] Set verbose or quiet command line output
 - [ ] Auto reload webpage on network update
 - [ ] Do a better job on services, I have Apple hosts that are
 not showing services, but they have them
 - [ ] Setup a systemd service script to launching
+- [ ] Get better logging
 
 # MIT License
 
