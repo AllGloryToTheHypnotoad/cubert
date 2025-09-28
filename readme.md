@@ -2,6 +2,8 @@
 
 # Cubert
 
+Scan network and find hosts on your LAN.
+
 **still in development**
 
 ## Issues
